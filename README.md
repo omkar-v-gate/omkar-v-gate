@@ -61,7 +61,8 @@ To become a skilled Java Full Stack Developer and build scalable real-world soft
 ## 📫 Contact Me
 
 - GitHub: https://github.com/omkar-v-gate  
-- Email: your-email@gmail.com  
+- Email: gatemokar90@gmailo.com
+- Linkdln: linkedin.com/in/omkar-gate-41167528b  
 
 ---
 
