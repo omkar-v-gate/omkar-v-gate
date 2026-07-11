@@ -1,68 +1,161 @@
 # 👋 Hi, I'm Omkar Vijay Gate
 
 ## 🚀 About Me
-Aspiring Java Full Stack Developer passionate about building real-world applications using Java technologies.  
-Currently learning Advanced Java frameworks and improving problem-solving skills through projects.
+
+I am a **Computer Science Engineering graduate** and an aspiring **Java Full Stack Developer** passionate about building efficient, scalable, and real-world software applications using Java technologies.
+
+I have completed my **B.Tech in Computer Science & Engineering with Distinction** and continuously improve my skills in backend development, database management, and full-stack application development through hands-on projects.
+
+Currently, I am enhancing my expertise in **Java Full Stack Development**, Spring Boot, REST APIs, and modern software development practices.
 
 ---
 
-## 💻 Skills
+## 🎓 Education
 
-- **Programming Languages:** Java  
-- **Core Skills:** Core Java, Advanced Java  
-- **Backend:** JDBC, SQL, PostgreSQL  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Tools:** Eclipse, Maven, Git, GitHub  
-- **Concepts:** OOP, Exception Handling, File Handling, Collections  
+**Bachelor of Technology (B.Tech) - Computer Science & Engineering**  
+Agnihotri College of Engineering, Wardha  
+Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU)  
+Completed: 2026  
+CGPA: **8.05 (Distinction)**
 
 ---
 
-## 📂 Projects
+# 💻 Technical Skills
 
-### 🚀 Employee Management System  
+## Programming Languages
+- Java
+- SQL
+
+## Core Java
+- Object-Oriented Programming (OOP)
+- Classes & Objects
+- Constructors
+- Inheritance
+- Polymorphism
+- Abstraction
+- Encapsulation
+- Exception Handling
+- Collections Framework
+- File Handling
+- Multithreading Basics
+
+## Advanced Java
+- JDBC
+- Servlet
+- JSP
+- MVC Architecture
+
+## Backend Technologies
+- Spring Boot
+- REST APIs
+- Hibernate / JPA
+
+## Database
+- Oracle SQL
+- PostgreSQL
+- MySQL
+
+## Frontend Technologies
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- React js
+
+## Tools & Technologies
+- Eclipse IDE
+- Visual Studio Code
+- Maven
+- Git
+- GitHub
+
+---
+
+# 🚀 Projects
+
+## 📚 BookSphere - Digital Book Management System
+
 🔗 GitHub:  
-https://github.com/omkar-v-gate/Employee-Management-System  
+https://github.com/omkar-v-gate/BookSphere-Digital-Book-Management-System
 
-- Developed a console-based application using Java and JDBC  
-- Implemented CRUD operations  
-- Generated salary and department-wise reports  
-- Integrated PostgreSQL database  
-- Implemented file handling and SAP module simulation  
+- Developed a digital book management application using Java technologies.
+- Implemented CRUD operations for managing book records.
+- Applied Object-Oriented Programming concepts.
+- Integrated database connectivity for efficient data management.
+- Designed a structured and maintainable application workflow.
 
 ---
 
-### 🎓 Smart Student Analyzer System  
+## 👨‍💼 Employee Management System
+
 🔗 GitHub:  
-https://github.com/omkar-v-gate/SmartStudentAnalyzerSystem  
+https://github.com/omkar-v-gate/Employee-Management-System
 
-- Developed a student performance analyzer using Core Java  
-- Calculated grades and average marks  
-- Identified weak subjects  
-- Generated behavior analysis and performance tips  
-- Used ArrayList and conditional logic  
-
----
-
-## 🌱 Currently Learning
-
-- Java Full Stack Development  
-- Advanced Java Frameworks  
-- Spring Boot  
-- REST APIs  
+- Developed a console-based Employee Management System using Java and JDBC.
+- Implemented CRUD operations for employee data management.
+- Integrated PostgreSQL database for storing and retrieving data.
+- Generated salary and department-wise reports.
+- Applied OOP principles and file handling concepts.
 
 ---
 
-## 🎯 Career Objective
+## 🎓 Smart Student Analyzer System
 
-To become a skilled Java Full Stack Developer and build scalable real-world software applications.
+🔗 GitHub:  
+https://github.com/omkar-v-gate/SmartStudentAnalyzerSystem
+
+- Developed a student performance analysis application using Core Java.
+- Calculated grades and average marks automatically.
+- Identified weak subjects based on performance analysis.
+- Generated performance insights and improvement suggestions.
+- Used ArrayList, conditional logic, and problem-solving techniques.
 
 ---
 
-## 📫 Contact Me
+# 💼 Experience
 
-- GitHub: https://github.com/omkar-v-gate  
-- Email: gatemokar90@gmailo.com
-- Linkdln: linkedin.com/in/omkar-gate-41167528b  
+## Software Engineer Intern / Trainee Engineer  
+**Stridely Solutions**
+
+- Currently gaining experience in software development practices.
+- Learning industry-level application development processes.
+- Improving programming skills and understanding real-world project workflows.
+
+---
+
+# 🌱 Currently Learning
+
+- Java Full Stack Development
+- Spring Boot
+- RESTful Web Services
+- Database Design
+- API Development
+- Software Development Best Practices
+
+---
+
+# 🎯 Career Objective
+
+To become a skilled **Java Full Stack Developer** by continuously learning new technologies and contributing to the development of scalable, reliable, and impactful software solutions.
+
+---
+
+# 📊 GitHub Stats
+
+![Omkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkar-v-gate&show_icons=true&theme=radical)
+
+---
+
+# 📫 Connect With Me
+
+📧 Email:  
+gateomkar90@gmail.com
+
+🔗 GitHub:  
+https://github.com/omkar-v-gate
+
+🔗 LinkedIn:  
+https://linkedin.com/in/omkar-gate-41167528b
 
 ---
 
