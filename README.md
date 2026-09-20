@@ -2,13 +2,13 @@
 
 ## 🚀 About Me
 
-I am a **Computer Science Engineering graduate** and an aspiring **Java Full Stack Developer** passionate about building efficient, scalable, and real-world software applications using Java technologies.
+I am a Computer Science & Engineering graduate and currently working as a **Trainee Engineer at Stridely Solutions**, with a strong interest in software development and full-stack application development.
 
-I have completed my **B.Tech in Computer Science & Engineering with Distinction** and continuously improve my skills in backend development, database management, and full-stack application development through hands-on projects.
+I have completed my **B.Tech in Computer Science & Engineering with Distinction**, and have developed a strong foundation in **Java, Spring Boot, REST APIs, SQL, Hibernate/JPA, and frontend technologies** through academic training and hands-on projects.
 
-Currently, I am enhancing my expertise in **Java Full Stack Development**, Spring Boot, REST APIs, and modern software development practices.
+My experience also includes working with **.NET technologies, ASP.NET Core Web API, Angular, and database-driven applications**, giving me exposure to different areas of full-stack development.
 
----
+I am passionate about continuously learning new technologies, improving my problem-solving skills, and building **efficient, scalable, and real-world software applications**. My goal is to grow as a software engineer while contributing to meaningful projects and continuously expanding my technical expertise.
 
 ## 🎓 Education
 
@@ -25,6 +25,7 @@ CGPA: **8.05 (Distinction)**
 ## Programming Languages
 - Java
 - SQL
+- .Net
 
 ## Core Java
 - Object-Oriented Programming (OOP)
@@ -44,6 +45,7 @@ CGPA: **8.05 (Distinction)**
 - Servlet
 - JSP
 - MVC Architecture
+  
 
 ## Backend Technologies
 - Spring Boot
@@ -54,6 +56,7 @@ CGPA: **8.05 (Distinction)**
 - Oracle SQL
 - PostgreSQL
 - MySQL
+- Sql Server
 
 ## Frontend Technologies
 - HTML5
@@ -61,6 +64,7 @@ CGPA: **8.05 (Distinction)**
 - JavaScript
 - Bootstrap
 - React js
+- Angular
 
 ## Tools & Technologies
 - Eclipse IDE
@@ -125,10 +129,10 @@ https://github.com/omkar-v-gate/SmartStudentAnalyzerSystem
 
 # 🌱 Currently Learning
 
-- Java Full Stack Development
-- Spring Boot
-- RESTful Web Services
-- Database Design
+- Python Full Stack
+- AI Fundamentals/tools
+- Microservices
+- System Design
 - API Development
 - Software Development Best Practices
 
